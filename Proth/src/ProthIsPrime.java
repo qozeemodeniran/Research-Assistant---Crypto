@@ -91,16 +91,18 @@ static boolean isProthPrime(int n)
 // Driver Code 
 public static void main(String args[]) 
 { 
-    int n = 41; 
+    int n = 25; 
   
     // if number is proth number, 
     // calculate primes upto n 
     SieveOfEratosthenes(n); 
   
-    for (int i = 1; i <= n; i++) 
+    for (int i =1 ; i <= n; i++) 
         // Check n for Proth Prime 
         if (isProthPrime(i)) 
-            System.out.println(i +" is Proth Prime"); 
-} 
+            System.out.println(i +" is Proth Prime");
+//        else 
+//        	System.out.println("Not a proth prime");
+}
 } 
   
