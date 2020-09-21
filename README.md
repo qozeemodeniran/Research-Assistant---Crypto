@@ -20,8 +20,9 @@ To apply, please submit your email address, bio data and a Github link with your
     - (Please show your workings). Over all real numbers, find the minimum value of a positive real number, y such that
 
         $y = sqrt((x+6)^2 + 25) + sqrt((x-6)^2 + 121)$
+        ![1](https://user-images.githubusercontent.com/16024317/93733676-3341b380-fbce-11ea-9970-a00338265cb0.jpeg)
          ![1 contd](https://user-images.githubusercontent.com/16024317/93733675-32108680-fbce-11ea-90ca-6e024267283b.jpeg)
-![1](https://user-images.githubusercontent.com/16024317/93733676-3341b380-fbce-11ea-9970-a00338265cb0.jpeg)
+
     
 
 ### Why Join?
